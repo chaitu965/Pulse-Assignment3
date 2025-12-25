@@ -1,0 +1,16 @@
+[
+  {
+    "module": "Security & Privacy",
+    "Description": "Security and privacy related features.",
+    "Submodules": {
+      "Security Settings": "Access control and data protection"
+    }
+  },
+  {
+    "module": "Account Management",
+    "Description": "User account and profile management.",
+    "Submodules": {
+      "Account Settings": "Manage organization accounts"
+    }
+  }
+]

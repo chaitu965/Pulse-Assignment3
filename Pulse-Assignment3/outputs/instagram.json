@@ -1,0 +1,16 @@
+[
+  {
+    "module": "Account Management",
+    "Description": "User account and profile management.",
+    "Submodules": {
+      "Account Settings": "Manage Instagram account preferences"
+    }
+  },
+  {
+    "module": "Security & Privacy",
+    "Description": "Security and privacy related features.",
+    "Submodules": {
+      "Security Settings": "Privacy and security controls"
+    }
+  }
+]

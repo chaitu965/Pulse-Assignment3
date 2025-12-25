@@ -1,0 +1,16 @@
+[
+  {
+    "module": "Getting Started",
+    "Description": "Installation and initial setup guidance.",
+    "Submodules": {
+      "Installation": "How to install WordPress"
+    }
+  },
+  {
+    "module": "Plugins",
+    "Description": "Platform extensions and plugins.",
+    "Submodules": {
+      "Plugin Usage": "Install and manage WordPress plugins"
+    }
+  }
+]

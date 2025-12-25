@@ -1,0 +1,16 @@
+[
+  {
+    "module": "Getting Started",
+    "Description": "Installation and initial setup guidance.",
+    "Submodules": {
+      "Installation": "Steps to get started with Chargebee"
+    }
+  },
+  {
+    "module": "Account Management",
+    "Description": "User account and profile management.",
+    "Submodules": {
+      "Account Settings": "Manage billing account settings"
+    }
+  }
+]
